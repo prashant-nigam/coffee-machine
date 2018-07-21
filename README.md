@@ -1,2 +1,2 @@
 # coffee-machine
-Simple coffee machine coding using Java
+Simple coffee machine coding without decorator Pattern
