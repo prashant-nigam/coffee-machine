@@ -1,0 +1,33 @@
+{
+  "drinks" : [
+    	{
+			"name" : "Cappuccino",
+			"recipe": {
+				"sugar" : 1,
+				"milk"  : 10,
+				"coffee" : 10
+			}
+		},
+		{
+			"name" : "Espresso",
+			"recipe": {
+				"sugar" : 1,
+				"milk"  : 5,
+				"coffee" : 15
+			}
+		},
+		{
+			"name" : "Latte",
+			"recipe" : {
+				"sugar" : 1,
+				"milk"  : 15,
+				"coffee" : 8
+			}			
+		}	
+	],
+	"inventory" : {
+		"sugar" : 10,
+		"milk" : 20,
+		"coffee" : 50,
+	}
+}
